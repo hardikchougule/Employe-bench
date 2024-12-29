@@ -58,3 +58,4 @@
 2024-12-29 22:25:39,892 INFO /home/hardik/.local/bin/bench serve --port 8002
 2024-12-29 22:25:39,899 INFO /home/hardik/.local/bin/bench watch
 2024-12-29 22:25:39,902 INFO /home/hardik/.local/bin/bench worker
+2024-12-30 00:00:02,171 INFO /home/hardik/.local/bin/bench --verbose --site all backup
